@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">drip2</string>
+    <string name="ItemN">Item name</string>
+    <string name="color">Color</string>
+    <string name="AddIteme">Add Item</string>
+    <string name="ClosetItems">Closet Items:</string>
+    <string name="ClearCloset">Clear Closet</string>
+    <string name="SuggestOutfit">Suggest Outfit</string>
+    <string name="SuggestedOutfit">Suggested Outfit:</string>
+
+</resources>

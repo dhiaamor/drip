@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789081536139",
+    "project_id": "closetsuggestapp",
+    "storage_bucket": "closetsuggestapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789081536139:android:a36e0228e231b35a23468e",
+        "android_client_info": {
+          "package_name": "eniso.ia2.drip2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV7HoQTOBzKI6p7rQmPQoHew62TmwXYZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
